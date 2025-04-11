@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Sulaeman Nurhakim
-- 📊 Passionate about analytics, geospatial solutions, and Python automation\
+- 📊 Passionate about analytics, geospatial solutions, and Python automation
 - 🌱 I’m currently sharpening skills in SQL, Tableau, and Machine Learning
 - 🔗 LinkedIn: linkedin.com/in/sulaemann
 - 📫 How to reach me? email at : sulaemannurhakim19@gmail.com
